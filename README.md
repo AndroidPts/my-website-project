@@ -58,8 +58,3 @@
 ## Диаграмма развёртывания (Deployment Diagram)
 
 <img width="711" height="111" alt="изображение" src="https://github.com/user-attachments/assets/7b7287e8-b10f-4481-b262-a2b7a842d63d" />
-
-<img width="1914" height="1003" alt="Снимок экрана от 2026-05-04 13-17-43" src="https://github.com/user-attachments/assets/6e45fce0-7387-4c7f-ad91-426401774096" />
-
-<img width="1914" height="1003" alt="Снимок экрана от 2026-05-04 13-18-38" src="https://github.com/user-attachments/assets/3147ebe7-8676-4354-868c-b95053823d14" />
-
