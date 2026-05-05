@@ -55,6 +55,7 @@
 
 <img width="1471" height="451" alt="Диаграмма прецедентов (Use Case)" src="https://github.com/user-attachments/assets/d055974a-4212-44e5-ac6b-c235cf0d0d04" />
 
+
 ## Диаграмма развёртывания (Deployment Diagram)
 
 <img width="711" height="111" alt="изображение" src="https://github.com/user-attachments/assets/7b7287e8-b10f-4481-b262-a2b7a842d63d" />
